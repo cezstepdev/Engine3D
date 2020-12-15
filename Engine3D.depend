@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1608042437 source:d:\studia\semestr5\gk\engine3d\engine3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"Camera.h"
+	"Debug.h"
+	"Window.h"
+	"Movement.h"
+	"Mouse.h"
+
+1607600626 d:\studia\semestr5\gk\engine3d\engine3d\include\engine3d.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1607708716 d:\studia\semestr5\gk\engine3d\engine3d\include\engine.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Sphere.h"
+	<vector>
+	"Point3D.h"
+	<iostream>
+
+1607708646 source:d:\studia\semestr5\gk\engine3d\engine3d\src\engine.cpp
+	"Engine.h"
+
+1607597287 d:\studia\semestr5\gk\engine3d\engine3d\include\solid.h
+	"Engine.h"
+
+1607597265 source:d:\studia\semestr5\gk\engine3d\engine3d\src\solid.cpp
+	"Solid.h"
+
+1607600812 source:d:\studia\semestr5\gk\engine3d\engine3d\src\engine3d.cpp
+
+1607602252 d:\studia\semestr5\gk\engine3d\engine3d\include\sphere.h
+	<vector>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608042143 source:d:\studia\semestr5\gk\engine3d\engine3d\src\point3d.cpp
+	"Point3D.h"
+
+1608042143 d:\studia\semestr5\gk\engine3d\engine3d\include\point3d.h
+
+1608040198 source:d:\studia\semestr5\gk\engine3d\engine3d\src\window.cpp
+	"Window.h"
+
+1608040198 d:\studia\semestr5\gk\engine3d\engine3d\include\window.h
+	<assert.h>
+
+1608037260 source:d:\studia\semestr5\gk\engine3d\engine3d\src\movement.cpp
+	"Movement.h"
+	<cmath>
+
+1608037200 d:\studia\semestr5\gk\engine3d\engine3d\include\movement.h
+	"struct.h"
+	"Camera.h"
+
+1608036363 d:\studia\semestr5\gk\engine3d\engine3d\include\camera.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1608042607 source:d:\studia\semestr5\gk\engine3d\engine3d\src\debug.cpp
+	"Debug.h"
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"Debug.h"
+	"Window.h"
+
+1608041531 d:\studia\semestr5\gk\engine3d\engine3d\include\debug.h
+	"struct.h"
+	"Camera.h"
+	"Window.h"
+	"Mouse.h"
+
+1608041429 d:\studia\semestr5\gk\engine3d\engine3d\include\struct.h
+
+1608036708 source:d:\studia\semestr5\gk\engine3d\engine3d\src\camera.cpp
+	"Camera.h"
+
+1608041490 d:\studia\semestr5\gk\engine3d\engine3d\include\mouse.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1608041470 source:d:\studia\semestr5\gk\engine3d\engine3d\src\mouse.cpp
+	"Mouse.h"
+
+1608042159 d:\studia\semestr5\gk\engine3d\engine3d\include\keyboard.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1608042159 source:d:\studia\semestr5\gk\engine3d\engine3d\src\keyboard.cpp
+	"Keyboard.h"
+
